@@ -875,7 +875,6 @@ main .left h1 {
 }
 
 .image-container {
-    background:  url('https://s3-alpha-sig.figma.com/img/68eb/3b86/fa454a9df4c09ad90e4e7a7ed88a0975?Expires=1709510400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Lsj6iGEqofKZRCTUFffKHo0sq314YCpW0WZ4zX5H69KgAVNiwG~Hg2Y2vgzv6GVgrGmMqj8yWX5p4d4dErHzOwyS03WURjR2i-W-XzttgxnvzP7toLX1u5tsY5NheIZ2Yy3g4d0syjNA51iLDe~qb8DeSbFim2rt38m1pB9o-~kFS4pBOlWIHkH3bJnDseQFZ34guqbq8h2dlvs3qJFXBStLCU3Aap-o9EtTaHnuyiW37ZnvUyBgv00K0dONMmlT19kXlsCWMvO26T858R0NNvxPmRsBg-pS6Wqj2~I-Tq1cbW5m1ND4NabacgPXcJJ0W5gWC8VuQHV-h5ViG4GDMQ__') center bottom /cover no-repeat;
     position: absolute;
     z-index: -1;
     height: 100%;
